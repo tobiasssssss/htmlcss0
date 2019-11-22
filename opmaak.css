@@ -1,0 +1,30 @@
+body{
+background-image: url(https://wallpaperplay.com/walls/full/9/f/c/34779.jpg);
+background-size:cover;
+color: red ;
+font-family: Luminari,fantasy ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+
+h1{
+
+color: red  ;
+font-family: Banco;
+
+
+
+}
+
+
+
+
+table, th, td{
+
+color: green;
+ border:1px solid red;
+
+
+
+}

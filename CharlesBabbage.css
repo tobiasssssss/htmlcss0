@@ -1,0 +1,39 @@
+body{
+
+  background-image: url("https://schools.vtsbharath.org/wp-content/uploads/2018/01/Remembering-Charles-Babbage-on-the-World-Computer-Day-copy.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+
+li{
+width: 220px;
+display: inline-block;
+border: gray;
+font-size: 20px;
+height: 100px;
+
+
+}
+
+li,ul{
+
+border: 1px solid gray;
+
+}
+
+img{
+height: 200px;
+width: 300px;
+
+
+}
+
+
+p{
+font-size: 17px;
+width: 800px;
+
+}
